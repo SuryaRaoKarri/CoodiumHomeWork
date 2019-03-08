@@ -1,0 +1,6 @@
+C:\Users\karri\source\repos\p3\p3\bin\Debug\p3.exe.config
+C:\Users\karri\source\repos\p3\p3\bin\Debug\p3.exe
+C:\Users\karri\source\repos\p3\p3\bin\Debug\p3.pdb
+C:\Users\karri\source\repos\p3\p3\obj\Debug\p3.csproj.CoreCompileInputs.cache
+C:\Users\karri\source\repos\p3\p3\obj\Debug\p3.exe
+C:\Users\karri\source\repos\p3\p3\obj\Debug\p3.pdb

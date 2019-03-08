@@ -1,0 +1,6 @@
+C:\Users\karri\source\repos\Primenumber\Primenumber\bin\Debug\Primenumber.exe.config
+C:\Users\karri\source\repos\Primenumber\Primenumber\bin\Debug\Primenumber.exe
+C:\Users\karri\source\repos\Primenumber\Primenumber\bin\Debug\Primenumber.pdb
+C:\Users\karri\source\repos\Primenumber\Primenumber\obj\Debug\Primenumber.csproj.CoreCompileInputs.cache
+C:\Users\karri\source\repos\Primenumber\Primenumber\obj\Debug\Primenumber.exe
+C:\Users\karri\source\repos\Primenumber\Primenumber\obj\Debug\Primenumber.pdb

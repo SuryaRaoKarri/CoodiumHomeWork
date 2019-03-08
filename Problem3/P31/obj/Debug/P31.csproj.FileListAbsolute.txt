@@ -1,0 +1,7 @@
+C:\Users\karri\source\repos\P31\P31\bin\Debug\P31.exe.config
+C:\Users\karri\source\repos\P31\P31\bin\Debug\P31.exe
+C:\Users\karri\source\repos\P31\P31\bin\Debug\P31.pdb
+C:\Users\karri\source\repos\P31\P31\obj\Debug\P31.csproj.CoreCompileInputs.cache
+C:\Users\karri\source\repos\P31\P31\obj\Debug\P31.exe
+C:\Users\karri\source\repos\P31\P31\obj\Debug\P31.pdb
+C:\Users\karri\source\repos\P31\P31\obj\Debug\P31.csprojAssemblyReference.cache

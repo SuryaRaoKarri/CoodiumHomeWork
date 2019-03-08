@@ -1,0 +1,6 @@
+C:\Users\karri\source\repos\P2\P2\bin\Debug\P2.exe.config
+C:\Users\karri\source\repos\P2\P2\bin\Debug\P2.exe
+C:\Users\karri\source\repos\P2\P2\bin\Debug\P2.pdb
+C:\Users\karri\source\repos\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\karri\source\repos\P2\P2\obj\Debug\P2.exe
+C:\Users\karri\source\repos\P2\P2\obj\Debug\P2.pdb
